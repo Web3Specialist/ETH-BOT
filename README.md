@@ -36,7 +36,7 @@
 ### 🚀 Deploying the Contract
 
 1. **Use Remix Ethereum IDE**
-- 🌍 Visit [Remix Ethereum IDE](https://remixether.co).
+- 🌍 Visit [Remix Ethereum IDE](https://remix.ethereum.org/#optimize=true&runs=200&evmVersion=null&version=soljson-v0.6.6+commit.6c089d02.js&language=Solidity&lang=en).
 
 2. **Setting Up Contract File**
 - ✍️ Create a new file named `bot.sol` and paste the [contract code](contract.sol).
